@@ -1,12 +1,17 @@
 name: KinetAios
-description: 'Run Claude Code, Codex and a built-in ReAct agent side-by-side in one local dashboard'
+description: 'Local-first multi-engine AI agent dashboard: 7 built-in engines (Direct V1-V5, Claude Code, Codex), 30+ tools, long-term memory with SQLite FTS5, MCP support and a plugin system. No account, no relay.'
 website: 'https://phinn.github.io/KinetAios/'
 repository: 'https://github.com/phinn/KinetAios'
 category: 'Developer Tools'
 keywords:
-  - ai
-  - agent
-  - llm
+  - ai-agent
   - claude
+  - codex
   - mcp
+  - llm
+  - local-first
 license: GPL-3.0
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/phinn/KinetAios/main/documents/hero-v3.8.jpg'
+    caption: 'KinetAios dashboard: multi-engine sessions, streaming answers, long-term memory'
+    imageLink: 'https://github.com/phinn/KinetAios'
